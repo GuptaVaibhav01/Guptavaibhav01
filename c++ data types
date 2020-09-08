@@ -1,0 +1,12 @@
+#include <bits/stdc++.h>
+using namespace std;
+int main() {
+	int n;
+	char ch;
+	float f;
+	cin>>n>>ch>>f;
+	cout<<n<<endl;
+	cout<<ch<<endl;
+	cout<<f<<endl;
+	return 0;
+}
